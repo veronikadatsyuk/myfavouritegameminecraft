@@ -1,3 +1,3 @@
 function changeText() {
-    document.getElementById("demo").innerHTML = "Ти натиснув кнопку!";
+    document.getElementById("demo").innerHTML = "Ти натиснула кнопку!";
 }
